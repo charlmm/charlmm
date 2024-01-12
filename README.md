@@ -32,7 +32,7 @@ _Favorite programming language: Javascript :crab:._
 ---
 
 
-<a href="mailto:charles.mbuthia19@gmail.ccom">
+<a href="mailto:charles.mbuthia19@gmail.com">
     <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
 </a>
 
